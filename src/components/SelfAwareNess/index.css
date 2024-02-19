@@ -1,0 +1,27 @@
+.card-self {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100vw;
+}
+
+.head-1 {
+    font-size: 18px;
+    font-family: 'Roboto';
+    text-align: center;
+
+}
+
+.head-2 {
+    font-size: 40px;
+    font-family: 'Roboto';
+    text-align: center;
+    font-weight: bolder;
+}
+
+.para-text {
+    font-size: 30px;
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #e9eff7;
+    height: 80vh;
+    width: 90vw;
+    border-radius: 20px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card-1 {
+    width: 30%;
+}
+
+p {
+    font-family:  sans-serif;
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.image {
+    border-radius: 40px;
+    height: 70vh;
+    width: 20vw;
+    border: 8px solid black;
+}

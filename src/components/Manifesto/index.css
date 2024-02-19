@@ -1,0 +1,17 @@
+.mani-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fcd7fb;
+    height: 80vh;
+    width: 90vw;
+    border-radius: 20px;
+}
+
+.para-card {
+    width: 40vh;
+}
+
+.para {
+    font-size: 30px;
+}
